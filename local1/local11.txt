@@ -1,1 +1,3 @@
 new line added to local1
+
+new line added from Master
