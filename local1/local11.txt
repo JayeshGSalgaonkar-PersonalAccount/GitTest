@@ -1,3 +1,2 @@
-new line added to local1
-
-new line added from Master
+def methodToPrintWelcome:
+    print("Welcome from Local Branch")
