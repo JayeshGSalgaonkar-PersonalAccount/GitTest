@@ -1,2 +1,4 @@
+def methodToWelcome:
+    print("Welcome from Master Branch")
 def methodToPrintWelcome:
     print("Welcome from Local Branch")
